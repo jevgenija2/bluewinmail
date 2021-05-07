@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sam",
+    "surname": "Wright",
+    "emailAddress": "samuel.wright@testMail.com",
+    "subscriptionMonthlyPayment": 0,
+    "subscriptionPaymentCurrency": "$",
+    "emailQuota": "Up to 1 GB",
+    "userCreated": "2021-05-06T11:49:04.843+00:00"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "surname": "Walker",
+    "emailAddress": "john.walker@testMail.com",
+    "subscriptionMonthlyPayment": 10.99,
+    "subscriptionPaymentCurrency": "$",
+    "emailQuota": "Up to 10 GB",
+    "userCreated": "2021-05-06T11:49:04.862+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Julia",
+    "surname": "Clarke",
+    "emailAddress": "julia.clarke@testMail.com",
+    "subscriptionMonthlyPayment": 0,
+    "subscriptionPaymentCurrency": "$",
+    "emailQuota": "Up to 1 GB",
+    "userCreated": "2021-05-06T11:49:17.783+00:00"
+  }
+]
